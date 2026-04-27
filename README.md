@@ -4,9 +4,9 @@
 
 ### 📑 Table of Contents
 
-* Chapter 1: [Introduction](#1-introduction)
+#### Chapter 1: [Introduction](#1-introduction)
 
-* Chapter 2: [Problem Statement](#2-problem-statement)
+#### Chapter 2: [Problem Statement](#2-problem-statement)
 
 * Chapter 3: [Understanding the Dataset](#3-understanding-the-dataset)
 
