@@ -1,11 +1,14 @@
 # 📘 **ANN Intermediate Project** 
 
 # **Customer Churn Prediction using PyTorch**
+
 ## **Part 1 : The Problem
 
 ### Chapter 1: [Introduction](#1-introduction)
 
 ### Chapter 2: [Problem Statement](#2-problem-statement)
+
+---
 
 ## **Part 2 : Dealing with Data 
 
@@ -20,6 +23,8 @@
   - Chapter 5.3: [Feature Scaling](#53-feature-scaling)
 
 ### Chapter 6: [Train-Test Split](#6-train-test-split)
+
+---
 
 ## **Part 3 : Model Building
 
@@ -41,7 +46,9 @@
   - Chapter 10.1: [Accuracy](#101-accuracy)
   - Chapter 10.2: [Precision and Recall](#102-precision-and-recall)
   - Chapter 10.3: [F1 Score](#103-f1-score)
-    
+
+---
+   
 ## **Part 4 : Improving The model
 
 ### Chapter 11: [Improving the Model](#11-improving-the-model)
@@ -50,6 +57,8 @@
   - Chapter 11.2: [Trying Different Architectures](#112-trying-different-architectures)
 
 ### Chapter 12: [Final Results and Conclusion](#12-final-results-and-conclusion)
+
+---
 
 ## **Part 5 : Further Steps
 
