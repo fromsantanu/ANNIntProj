@@ -53,7 +53,7 @@
 
 #### Chapter 11: [Improving the Model](https://github.com/fromsantanu/ANNIntProj/blob/main/Part4/p01.md)
 
-  - Chapter 11.1: [Hyperparameter Tuning](https://github.com/fromsantanu/ANNIntProj/blob/main/Part4/p01-2.md)
+  - Chapter 11.1: [Hyperparameter Tuning](https://github.com/fromsantanu/ANNIntProj/blob/main/Part4/p01-1.md)
   - Chapter 11.2: [Trying Different Architectures](https://github.com/fromsantanu/ANNIntProj/blob/main/Part4/p01-2.md)
 
 #### Chapter 12: [Final Results and Conclusion](https://github.com/fromsantanu/ANNIntProj/blob/main/Part4/p02.md)
