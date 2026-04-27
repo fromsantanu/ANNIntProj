@@ -2,21 +2,21 @@
 
 ## 📘 Customer Churn Prediction using PyTorch
 
-### 📑 Table of Contents
+### Table of Contents
 
 #### Chapter 1: [Introduction](#1-introduction)
 
 #### Chapter 2: [Problem Statement](#2-problem-statement)
 
-* Chapter 3: [Understanding the Dataset](#3-understanding-the-dataset)
+#### Chapter 3: [Understanding the Dataset](#3-understanding-the-dataset)
 
-* Chapter 4: [Exploratory Data Analysis (EDA)](#4-exploratory-data-analysis-eda)
+#### Chapter 4: [Exploratory Data Analysis (EDA)](#4-exploratory-data-analysis-eda)
 
-* Chapter 5: [Data Preprocessing](#5-data-preprocessing)
+#### Chapter 5: [Data Preprocessing](#5-data-preprocessing)
 
-  * Chapter 5.1: [Handling Missing Values](#51-handling-missing-values)
-  * Chapter 5.2: [Encoding Categorical Variables](#52-encoding-categorical-variables)
-  * Chapter 5.3: [Feature Scaling](#53-feature-scaling)
+  ##### Chapter 5.1: [Handling Missing Values](#51-handling-missing-values)
+  ##### Chapter 5.2: [Encoding Categorical Variables](#52-encoding-categorical-variables)
+  ##### Chapter 5.3: [Feature Scaling](#53-feature-scaling)
 
 * Chapter 6: [Train-Test Split](#6-train-test-split)
 
